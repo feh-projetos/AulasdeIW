@@ -1,0 +1,111 @@
+
+body{
+	
+	background-color:#fff;
+  
+}
+
+
+.container{
+  
+  position:relative;
+  width: 80%;
+  margin-right:auto;
+  margin-left: auto;
+ 
+
+}
+.titulos{
+  text-align: center;
+  font-size: 2em
+}
+
+h1{
+	
+	font-size: 2em;
+  font-family: 'Dancing Script', cursive;
+  
+}
+h2{
+  font-size: 2em;
+  font-family:'Dancing Script',cursive;
+}
+
+
+
+header,footer{
+ padding: 3%;
+ position: relative;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ font-size: 1.5em;
+ line-height: 1.5;
+ <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap" rel="stylesheet">
+}
+
+
+        
+          .fixo{
+          position: fixed;
+          top:0;
+          right:0;
+          left:0;
+          z-index: 1030;
+          background-color: pink;
+
+          }
+
+
+<style>
+a:link {
+  color:  MediumVioletRed;
+  background-color: transparent;
+  text-decoration: none;
+  padding: 3%
+}
+
+a:visited {
+  color: MediumVioletRed;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: DarkMagenta;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: Orchid;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+table{
+
+	border-collapse: collapse;
+	width:80%;
+	font-size: 1.2em
+
+}
+
+td,th{
+
+	border: 5px dashed #F1948A
+
+}
+.imglogo{
+
+  vertical-align: 
+}
+
+
+
+
+
+/*quando a tela for maior que 600px */
+@media screen and (min-width:  600px){
+
+}
